@@ -1,4 +1,4 @@
-Locul 2  - Sesiunea de comunicari stiintifice
+Locul 2 - Sesiunea de comunicari stiintifice
 
 Aceasta reprezintă o aplicaţie care utilizează o rețea neuronală de tipul YOLOv3 pentru a detecta și recunoaște plăcile de înmatriculare dintr-un set de imagini. Pentru a face acest lucru, codul încarcă modelul YOLOv3, definește directoarele cu fișierele de configurație și listele de clase, încarcă imaginea din fiecare fișier din directorul specificat și aplică rețeaua neuronală pentru a detecta plăcile de înmatriculare. După detectare, plăcile de înmatriculare sunt preluate, transformate în imagini alb-negru și scanate cu ajutorul bibliotecii EasyOCR pentru a recunoaște caracterele din placa de înmatriculare.
 
